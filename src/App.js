@@ -1,13 +1,13 @@
 
 import './App.css';
-import Card from './Components/Card/Card'
+import Main from './Components/Main/Main'
+
 
 function App() {
-  return (
-    <div>
-      <Card />
-    </div>
-  );
+  return ( 
+    <Main />
+
+  )
 }
 
 export default App;
